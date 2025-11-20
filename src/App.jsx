@@ -72,7 +72,7 @@ function App() {
             </button>
 
             <div className="mt-32 text-center text-sm text-gray-600">
-              © faascobees 2025
+              © faasobees 2025
             </div>
           </form>
         </div>
